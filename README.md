@@ -47,6 +47,7 @@ underscore, make sure to remove it before pasting your images in fills and thumb
 rename the file before you export it in Lightroom).
 
 Valid filename: DSC-1234.jpg
+
 Invalid filename: _DSC-1234.jpg
 
 Note: You only need to build the website if you make changes such as replacing the images, modifying the css styles, etc.
