@@ -1,23 +1,24 @@
 # Base configs
 # base URL after / is dependent on the repository name
-baseurl: "https://dauve318g787.github.io/david-dupuis-photography"
-# baseurl: "" # Comment the above line and uncomment this to test the website locally
+# baseurl: "https://dauve318g787.github.io/david-dupuis-photography"
+baseurl: "" # Comment the above line and uncomment this to test the website locally
 favicon: "/favicon.ico"
 image_fulls_loc: "/images/fulls"
 image_thumbs_loc: "/images/thumbs"
 google_analytics: ""
 
 # UI configs
-title: "Luke Welsh Photography"
+title: "David Dupuis Photography"
 subtitle: "My Photography Journey"
-author: "Luke Welsh"
+author: "David Dupuis"
 header:
- title: "Luke Welsh"
+ title: "David Dupuis"
  subtitle: "Photography"
 footer:
- name: "Hey there, I'm Luke 👋"
- bio: "I am a developer, tech aficionado, and racing fanatic. At this point in my life, I am now hoping to learn sports photography. I am a journalist for <a href=\"https://collinsvilledailynews.com\">Collinsville Daily News</a>, and the co-owner of <a href=\"https://victormorganmedia.com\">Victor Morgan</a>, a sports-specific news site serving the STL area."
- github: "If you have time, check out my <a href=\"https://github.com/StayCool21\">GitHub</a> ;)"
+ name: "Hello and welcome!"
+ # TODO probably change this lol
+ bio: "My name is David Dupuis! I've been taking photos for a number of years now. Here are some of them. I hope you enjoy!"
+ github: "If you have time, check out my <a href=\"https://github.com/Dauve318G787\">GitHub</a> ;)"
 # web_design: "LW"
 # Configure which exif data to display
 # Tag is the actual exif tag, icon is a fontawesome icon. Use JSON notation without line breaks
@@ -27,5 +28,5 @@ social_urls:
   # twitter: ""
   # instagram: ""
   # dribbble: ""
-  linkedin: "https://www.linkedin.com/in/luke-welsh-737886248/"
-  github: "https://www.github.com/StayCool21"
+  linkedin: "https://www.linkedin.com/in/david-dupuis-175b18208/"
+  github: "https://www.github.com/Dauve318G787"

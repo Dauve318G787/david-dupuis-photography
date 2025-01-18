@@ -35,6 +35,20 @@ And, of course, you don't want my name at the bottom to show up. You can change 
 2. `python resize_images.py` - After putting the full-sized images in the /thumbs folder, type this to resize all images in /thumbs to thumbnails
 3. `$ gulp` - minify css, js, resize images, etc.
 
+### Naming convention for folders and images
+Folders are named using the following format:
+YYYY.MM.DD-PhotoLocation-Sport@HomeOrAway
+
+For example: 2025.1.18-WashU-MBB@Home
+
+Images do not have a specific naming convention. It does seem like Jekyll doesn't like when
+image files lead off with an underscore (_), so if your camera prefaces image files with an
+underscore, make sure to remove it before pasting your images in fills and thumbs (or just
+rename the file before you export it in Lightroom).
+
+Valid filename: DSC-1234.jpg
+Invalid filename: _DSC-1234.jpg
+
 Note: You only need to build the website if you make changes such as replacing the images, modifying the css styles, etc.
  
 ## ProTips
