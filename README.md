@@ -41,12 +41,13 @@ YYYY.MM.DD-PhotoLocation-Sport@HomeOrAway
 
 For example: 2025.1.18-WashU-MBB@Home
 
-Images do not have a specific naming convention. It does seem like Jekyll doesn't like when
+Images do not have a specific naming convention. It seems like Jekyll doesn't like when
 image files lead off with an underscore (_), so if your camera prefaces image files with an
 underscore, make sure to remove it before pasting your images in fills and thumbs (or just
 rename the file before you export it in Lightroom).
 
 Valid filename: DSC-1234.jpg
+
 Invalid filename: _DSC-1234.jpg
 
 Note: You only need to build the website if you make changes such as replacing the images, modifying the css styles, etc.
