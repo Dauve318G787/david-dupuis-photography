@@ -16,8 +16,9 @@ header:
  subtitle: "Photography"
 footer:
  name: "Hello and welcome!"
- # TODO probably change this lol
- bio: "My name is David Dupuis! I've been taking photos for a number of years now. Here are some of them. I hope you enjoy!"
+ bio: "My name is David Dupuis! I've been taking photos ever since I was a little kid, when my parents let me play around with their Canon point and shoot on family vacations. Since I purchased my first DSLR in 2017, I have photographed
+ everything from landscapes to planes to trains to sports, and even won a photo contest along the way! My current focus is on sports photography, and I also do a little writing on the side- check that out <a href=\"https://victormorganmedia.com/pba\">here!</a>
+ Thank you for stopping by, and I hope you enjoy!"
  github: "If you have time, check out my <a href=\"https://github.com/Dauve318G787\">GitHub</a> ;)"
 # web_design: "LW"
 # Configure which exif data to display
